@@ -8,7 +8,7 @@ export default defineConfig({
     starlight({
       title: "Manual de Coordinación",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/RadikeCosa/coordination-manual",
       },
       sidebar: [
         {
